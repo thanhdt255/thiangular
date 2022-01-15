@@ -13,7 +13,7 @@ import { ListProductComponent } from './list-product/list-product.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    FormsModule
+  
   ],
   providers: [],
   bootstrap: [AppComponent]
